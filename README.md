@@ -1,4 +1,4 @@
-“My p5.js Sketch
+
 This project is a creative coding sketch made using p5.js.
 Description
 ThisSketch.js is an interactive album cover where users can click on different circles to play various drum sounds. The circles pulse to create a dynamic visual effect.
